@@ -36,7 +36,7 @@ Business decisions require richer data, that includes volume, spread timing and 
 #### Other notes
 
 1. If you are having trouble reading the to_db file you can try adding the .log extension to it.
-2. If you are having trouble installing sklearn try with “` pip install -U scikit-learn “`
+2. If you are having trouble installing sklearn try with `pip install -U scikit-learn`
 3. Cex_price and dex_price distribution graphs behave unexpectedly.
 4. Trello board can be found here: https://trello.com/invite/b/AMd8fMKZ/ATTI8c3cbb08570b5439c5d424d175892b1254E7AE5F/pgboard
 
