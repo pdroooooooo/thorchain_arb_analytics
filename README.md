@@ -31,7 +31,7 @@ Note: Full workflow is detailed in the code comments too.
 
 #### Results
 
-business analytic approach you used to solve the problem. 
+Business decisions require richer data, that includes volume, spread timing and considers network fees.
 
 #### Other notes
 
