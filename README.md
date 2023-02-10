@@ -1,4 +1,4 @@
-###### CEX - DEX Arb Analytics
+# CEX - DEX Arb Analytics
 
 ## Overview
 
@@ -6,15 +6,15 @@ A data analytics tool to explore arbitrage opportunities between a liquid Centri
 
 Buit for the Ironhack DA FT Jan23 Mx Bootcamp.
 
-## Objective
+### Objective
 
 Analyze for patterns, try and predict price differencials between a liquid Centrilized Exchange (CEX) and a less-liquid cross-chain Decentralized Exchage (DEX) from data like dates, time and pools. Alternatively, to determine if more or richer samples are needed.
 
-# Data Sources
+#### Data Sources
 
 The data in this project was extracted using python algorithms that log price differentials between Binance and THORChain - the two biggest trading venues in their respective categories - during a lapse of three days sarting on February 8th, 2023.
 
-# Data analysis workflow 
+#### Data analysis workflow 
 
 1. After creating a pandas DataFrame from the .log file, data is analyzed for size and forms.
 2. Data is generally clean but a unix timestamp column is added and several more are dropped.
@@ -29,14 +29,15 @@ The data in this project was extracted using python algorithms that log price di
 
 Note: Full workflow is detailed in the code comments too. 
 
-# Results
+#### Results
 
 business analytic approach you used to solve the problem. 
 
-# Other notes
+#### Other notes
 
 1. If you are having trouble installing sklearn try with * pip install -U scikit-learn *
 2. Both cex_price and dex_price distribution graphs behave unexpectedly.
 grafica rara
+3. Trello board can be found here: https://trello.com/invite/b/AMd8fMKZ/ATTI8c3cbb08570b5439c5d424d175892b1254E7AE5F/pgboard
 
 
